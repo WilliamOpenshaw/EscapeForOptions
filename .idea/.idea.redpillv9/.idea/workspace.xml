@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e1e18e5-db3c-4749-8594-fe223fe886d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/returnToPill.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/redCollide.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Creator Kit - FPS/Scripts/Editor/HideSkybox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/712D4FD8-31E1-48F0-BA51-24A22B81CAC4/0b/11fd650e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playVietnamVideos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/bombingControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/enableR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/listener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/markerToGraph.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/blueCollide.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Packages/manifest.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/listener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/markerToGraph.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/returnToPill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/redCollide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/blueCollide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/bombingControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/playVietnamVideos.cs" />
+        <option value="$PROJECT_DIR$/Assets/Creator Kit - FPS/Scripts/Editor/HideSkybox.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QQOK1uz9U6oa4lfp0j9AZR4KiK" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1e18e5-db3c-4749-8594-fe223fe886d8" name="Default Changelist" comment="" />
+      <created>1567699285295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567699285295</updated>
+      <workItem from="1567699286805" duration="569000" />
+      <workItem from="1567699902100" duration="104000" />
+      <workItem from="1567862128584" duration="4256000" />
+      <workItem from="1567922270757" duration="250000" />
+      <workItem from="1567922645693" duration="457000" />
+      <workItem from="1567924509090" duration="1912000" />
+      <workItem from="1567930504703" duration="247000" />
+      <workItem from="1567930768745" duration="26000" />
+      <workItem from="1567930810697" duration="9589000" />
+      <workItem from="1567940458967" duration="365000" />
+      <workItem from="1567940840991" duration="1705000" />
+      <workItem from="1568001200618" duration="1737000" />
+      <workItem from="1568086709574" duration="4910000" />
+      <workItem from="1568094950791" duration="2230000" />
+      <workItem from="1568097204178" duration="5694000" />
+      <workItem from="1568255173742" duration="123000" />
+      <workItem from="1568255313302" duration="11261000" />
+      <workItem from="1568303290230" duration="600000" />
+      <workItem from="1568438423783" duration="4991000" />
+      <workItem from="1568447768174" duration="1511000" />
+      <workItem from="1568449532234" duration="3041000" />
+      <workItem from="1568545104501" duration="2442000" />
+      <workItem from="1568559769123" duration="5023000" />
+      <workItem from="1568606409494" duration="2107000" />
+      <workItem from="1568732011731" duration="3560000" />
+      <workItem from="1568821145209" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
