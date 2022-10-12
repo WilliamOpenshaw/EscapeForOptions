@@ -1,0 +1,10 @@
+newmtl WP_VN_USA_M60_Materials_US_M60D_M
+	map_Kd WP_VN_USA_M60_Materials_US_M60D_M_D.bmp
+	map_Ks WP_VN_USA_M60_Materials_US_M60D_M_S.bmp
+	bump WP_VN_USA_M60_Materials_US_M60D_M_N.bmp
+
+newmtl WP_VN_USA_M60_Materials_US_M60_Ammobox_M
+	map_Kd WP_VN_USA_M60_Materials_US_M60_Ammobox_M_D.bmp
+	map_Ks WP_VN_USA_M60_Materials_US_M60_Ammobox_M_S.bmp
+	bump WP_VN_USA_M60_Materials_US_M60_Ammobox_M_N.bmp
+

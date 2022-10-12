@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: edc5923c5220a1a45a0b6d6f38b95cb5
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -5128675977896989702
+    second: core engine ribs004|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 53535173838265151
+    second: core engine ribs004|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: -6203359777859617447
+    second: core engine ribs004|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: -8835634885944007816
+    second: core engine ribs004|Core engine|Take 001|BaseLayer
+  - first:
+      74: 901309697880530734
+    second: core engine ribs004|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: 3951324064486839850
+    second: core engine ribs004|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: -7131463618905284528
+    second: core engine ribs004|upper engine|Take 001|BaseLayer
+  - first:
+      74: 6837351338011687266
+    second: core engine ribs005|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 4607591289648909176
+    second: core engine ribs005|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: 880995307076326475
+    second: core engine ribs005|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: -7942212370649636956
+    second: core engine ribs005|Core engine|Take 001|BaseLayer
+  - first:
+      74: -6957767441575452760
+    second: core engine ribs005|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: -4605481640269396838
+    second: core engine ribs005|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: -6871459220590949484
+    second: core engine ribs005|upper engine|Take 001|BaseLayer
+  - first:
+      74: -1747599129628450414
+    second: core engine ribs003|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 2829056242938724519
+    second: core engine ribs003|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: -5687029394354351789
+    second: core engine ribs003|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: -7866795689113075233
+    second: core engine ribs003|Core engine|Take 001|BaseLayer
+  - first:
+      74: 4496485992855666872
+    second: core engine ribs003|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: -2302750448603632902
+    second: core engine ribs003|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: 9106851918401478592
+    second: core engine ribs003|upper engine|Take 001|BaseLayer
+  - first:
+      74: -1831778168298685852
+    second: Core engine|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: -5511971551078095681
+    second: Core engine|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: -2555668827355972981
+    second: Core engine|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: 2424410635725785928
+    second: Core engine|Core engine|Take 001|BaseLayer
+  - first:
+      74: 8025100407602127669
+    second: Core engine|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: -6295953454648108154
+    second: Core engine|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: 5441894237629909764
+    second: Core engine|upper engine|Take 001|BaseLayer
+  - first:
+      74: -1823222889614740469
+    second: upper engine|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 7467746780366795390
+    second: upper engine|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: -7632974799892599939
+    second: upper engine|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: -4263469891585730627
+    second: upper engine|Core engine|Take 001|BaseLayer
+  - first:
+      74: -1772079429235901421
+    second: upper engine|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: 6064815721224775033
+    second: upper engine|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: 299341079598032307
+    second: upper engine|upper engine|Take 001|BaseLayer
+  - first:
+      74: -2235380728866917336
+    second: lower Rotor|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 5434187461204117575
+    second: lower Rotor|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: -61608636848454023
+    second: lower Rotor|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: 5613221577256010451
+    second: lower Rotor|Core engine|Take 001|BaseLayer
+  - first:
+      74: -6134254519355440463
+    second: lower Rotor|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: -6262920552097405814
+    second: lower Rotor|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: -2416978931534440436
+    second: lower Rotor|upper engine|Take 001|BaseLayer
+  - first:
+      74: -5991041201100048084
+    second: Luminaris Ingame|core engine ribs003|Take 001|BaseLayer
+  - first:
+      74: 7606598007193448685
+    second: Luminaris Ingame|core engine ribs004|Take 001|BaseLayer
+  - first:
+      74: 4767824136446363554
+    second: Luminaris Ingame|core engine ribs005|Take 001|BaseLayer
+  - first:
+      74: -5044098454225128459
+    second: Luminaris Ingame|Core engine|Take 001|BaseLayer
+  - first:
+      74: -6800263389309261419
+    second: Luminaris Ingame|lower Rotor|Take 001|BaseLayer
+  - first:
+      74: 8450046775485436033
+    second: Luminaris Ingame|Luminaris Ingame|Take 001|BaseLayer
+  - first:
+      74: -1400011025775030929
+    second: Luminaris Ingame|upper engine|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

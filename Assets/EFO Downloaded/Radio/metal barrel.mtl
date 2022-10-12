@@ -1,0 +1,5 @@
+newmtl ENV_VN_Barrels_Materials_M_VN_Barrel_Black
+	map_Kd ENV_VN_Barrels_Materials_M_VN_Barrel_Black_D.bmp
+	map_Ks ENV_VN_Barrels_Materials_M_VN_Barrel_Black_S.bmp
+	bump ENV_VN_Barrels_Materials_M_VN_Barrel_Black_N.bmp
+

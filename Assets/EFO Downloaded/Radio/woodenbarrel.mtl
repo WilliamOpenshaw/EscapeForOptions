@@ -1,0 +1,5 @@
+newmtl ENV_VN_Wood_Bunker_Materials_M_BunkerWood
+	map_Kd ENV_VN_Wood_Bunker_Materials_M_BunkerWood_D.bmp
+	map_Ks ENV_VN_Wood_Bunker_Materials_M_BunkerWood_S.bmp
+	bump ENV_VN_Wood_Bunker_Materials_M_BunkerWood_N.bmp
+

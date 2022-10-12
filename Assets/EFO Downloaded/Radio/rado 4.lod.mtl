@@ -1,0 +1,5 @@
+newmtl ENV_VN_US_Misc_Items_Materials_M_US_Commander_Radio
+	map_Kd ENV_VN_US_Misc_Items_Materials_M_US_Commander_Radio_D.bmp
+	map_Ks ENV_VN_US_Misc_Items_Materials_M_US_Commander_Radio_S.bmp
+	bump ENV_VN_US_Misc_Items_Materials_M_US_Commander_Radio_N.bmp
+
